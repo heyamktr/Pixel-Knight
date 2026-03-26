@@ -5,4 +5,4 @@ var score = 0;
 
 func add_point():
 	score += 1;
-	score_label.text = "AMEM! " + str(score) + "/10";
+	score_label.text = "POINT! " + str(score) + "/10";
