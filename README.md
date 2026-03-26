@@ -8,7 +8,7 @@ Add your gameplay video here in either of these ways:
 
 Hosted video link:
 
-[Watch the demo](https://youtu.be/qURAf3fxYKg)
+[Watch the demo](https://youtu.be/1UhaZPZvW5s)
 
 Local video file in the repo:
 
@@ -101,3 +101,5 @@ Use this if you want a cleaner section later:
 
 [Watch the demo](https://your-video-link-here)
 ```
+
+
