@@ -97,9 +97,7 @@ The configured main scene is `res://scenes/game.tscn`.
 Use this if you want a cleaner section later:
 
 ```md
-## Demo Video
 
-[Watch the demo](https://your-video-link-here)
 ```
 
 
