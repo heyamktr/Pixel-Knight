@@ -92,12 +92,6 @@ The configured main scene is `res://scenes/game.tscn`.
 - `scripts/killzone.gd`: death/reset flow when the player falls
 - `scenes/Portal.gd`: scene transition from level 1 to level 2
 
-## Demo Section Template
 
-Use this if you want a cleaner section later:
-
-```md
-
-```
 
 
